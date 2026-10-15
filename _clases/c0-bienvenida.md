@@ -41,3 +41,6 @@ Lutero escribió el Catecismo Menor en 1529 para que el jefe de familia lo ense�
 {% endif %}{% if page.resumen != "" %}- [Resumen]({{ page.resumen }})
 {% endif %}{% if page.grabacion == "" and page.resumen == "" %}_Próximamente: grabación y resumen._{% endif %}
 - [Catecismo Menor · Biblioteca Luterana](https://lutheraninstitute.github.io/teologia/catecismo-menor.html)
+
+## Entrega
+Sube a Classroom una captura de la respuesta de Hark Pro y lo que comprobaste en el prefacio. [Entrar a Classroom](https://classroom.google.com/c/ODA2NjU2ODIxNTg0?cjc=edejxhep) · código `edejxhep`.
