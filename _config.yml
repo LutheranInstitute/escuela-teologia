@@ -1,0 +1,23 @@
+title: "TEOTECH · Escuela de Teología"
+description: "Escuela de Teología del Instituto Luterano Latinoamericano · Catecismo Menor · sábados 7 pm hora de Texas · híbrido y virtual · CC BY-NC-SA 4.0"
+remote_theme: LutheranInstitute/teotech-theme
+plugins:
+  - jekyll-remote-theme
+teotech:
+  handle: neuromitosis/teologia
+  tutor: true
+  footer: "æ://teologia · Escuela de Teología 🟦 · Instituto Luterano Latinoamericano · La evidencia no es autoridad: la Escritura es la norma."
+  dock:
+    - {label: "INICIO", icon: "⌂", url: "/"}
+    - {label: "CLASES", icon: "≡", url: "/clases/"}
+    - {label: "BIBLIOTECA", icon: "✝", url: "https://lutheraninstitute.github.io/teologia/"}
+lang: es
+timezone: America/Chicago
+
+collections:
+  clases:
+    output: true
+    permalink: /clases/:name/
+
+exclude:
+  - AGENTS.md
