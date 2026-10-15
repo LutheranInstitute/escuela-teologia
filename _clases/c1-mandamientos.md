@@ -44,3 +44,6 @@ Los Mandamientos muestran lo que Dios pide y nos dejan ver que lo necesitamos a 
 {% endif %}{% if page.grabacion == "" and page.resumen == "" %}_Próximamente: grabación y resumen._{% endif %}
 - [Catecismo Menor · Biblioteca Luterana](https://lutheraninstitute.github.io/teologia/catecismo-menor.html)
 - [Catecismo Mayor: los Diez Mandamientos explicados a fondo](https://lutheraninstitute.github.io/teologia/catecismo-mayor.html)
+
+## Entrega
+Sube a Classroom tu tabla de un mandamiento, con lo que tachaste y por qué. [Entrar a Classroom](https://classroom.google.com/c/ODA2NjU2ODIxNTg0?cjc=edejxhep) · código `edejxhep`.
