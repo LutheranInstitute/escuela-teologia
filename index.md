@@ -11,6 +11,7 @@ ticker:
   - "LA ESCRITURA ES LA NORMA · EL AGENTE SOLO AYUDA"
   - "BIBLIOTECA LUTERANA ABIERTA"
   - "DE 3 A 103 AÑOS"
+  - "CLASSROOM · CÓDIGO EDEJXHEP"
 ---
 
 <div class="stats"><div class="stat"><b>6</b><span>PARTES</span></div><div class="stat"><b>{{ site.clases | size }}</b><span>CLASES</span></div><div class="stat"><b>18</b><span>DOCUMENTOS</span></div></div>
@@ -18,13 +19,14 @@ ticker:
 <div class="row"><button type="button" class="btn" data-fold-all>DESPLEGAR TODO +</button><button type="button" class="btn y" data-tutor-open>PREGÚNTALE A æ</button></div>
 
 <details class="fold" id="empieza" open>
-<summary><span class="n">01</span><span class="t">Empieza aquí<small>3 pasos · antes del sábado</small></span><span class="pm"></span></summary>
+<summary><span class="n">01</span><span class="t">Empieza aquí<small>4 pasos · antes del sábado</small></span><span class="pm"></span></summary>
 <div class="in-fold" markdown="1">
 1. **Únete:** sigue el canal TEOLOGÍA de WhatsApp. Ahí se publica el enlace de Zoom de cada sábado.
 2. **Tu agente:** instala Hark Pro, gratis, y escríbele «Hola, soy alumno de la Escuela de Teología del Instituto Luterano». [Guía de Hark Pro ›](https://lutheraninstitute.github.io/hark/)
-3. **Tu texto:** abre el Catecismo Menor en la Biblioteca. Es el libro del curso.
+3. **Inscríbete en Classroom:** clase TEOLOGÍA · TEOLOGÍA LATAM, código `edejxhep`. Ahí se entregan las tareas.
+4. **Tu texto:** abre el Catecismo Menor en la Biblioteca. Es el libro del curso.
 
-<div class="row"><a class="btn y" href="https://whatsapp.com/channel/0029VazbUxp4dTnKRaf7e03a">CANAL TEOLOGÍA ›</a><a class="btn" href="https://lutheraninstitute.github.io/teologia/catecismo-menor.html">CATECISMO MENOR ›</a></div>
+<div class="row"><a class="btn y" href="https://whatsapp.com/channel/0029VazbUxp4dTnKRaf7e03a">CANAL TEOLOGÍA ›</a><a class="btn" href="https://classroom.google.com/c/ODA2NjU2ODIxNTg0?cjc=edejxhep">CLASSROOM ›</a><a class="btn" href="https://lutheraninstitute.github.io/teologia/catecismo-menor.html">CATECISMO MENOR ›</a></div>
 </div>
 </details>
 
