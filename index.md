@@ -61,3 +61,5 @@ Lo que aprendes el sábado lo enseñas en casa durante la semana. Para eso exist
 Los Credos, el Libro de Concordia y los escritos de Lutero, en español. [Abrir la Biblioteca ›](https://lutheraninstitute.github.io/teologia/) · [Repo biblioteca-luterana ›](https://github.com/LutheranInstitute/biblioteca-luterana)
 </div>
 </details>
+
+<div class="row"><a class="btn" href="https://lutheraninstitute.github.io/diplomado-agentico/">← DIPLOMADO · INSTITUTO LUTERANO ›</a></div>
