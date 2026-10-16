@@ -14,6 +14,11 @@ ticker:
   - "CLASSROOM · CÓDIGO EDEJXHEP"
 ---
 
+
+<div class="anim-l" style="margin:16px auto;text-align:center;max-width:300px">
+<a href="https://lutheraninstitute.github.io/rosa/" aria-label="Animación · rosa de Lutero" style="display:block;border:3px solid #5aa9e6;border-radius:10px;overflow:hidden;line-height:0"><iframe src="https://lutheraninstitute.github.io/rosa/" title="Animación · rosa de Lutero" loading="lazy" style="width:100%;aspect-ratio:9/16;border:0;pointer-events:none;background:#1c2621"></iframe></a>
+<small>🟦 Una clase abierta puede viajar, reproducirse y mejorar · <a href="https://lutheraninstitute.github.io/rosa/">Ver en pantalla completa ›</a></small>
+</div>
 <div class="stats"><div class="stat"><b>6</b><span>PARTES</span></div><div class="stat"><b>{{ site.clases | size }}</b><span>CLASES</span></div><div class="stat"><b>18</b><span>DOCUMENTOS</span></div></div>
 
 <div class="row"><button type="button" class="btn" data-fold-all>DESPLEGAR TODO +</button><button type="button" class="btn y" data-tutor-open>PREGÚNTALE A æ</button></div>
